@@ -7,6 +7,7 @@ description = "stan loona losers"
 image = ""
 tags = []
 title = "heloo world"
-type = "post this is a post lalala la"
+type = "post"
 
 +++
+hklgfhfgstgiljhjthyhliuyfdyfi
