@@ -64,7 +64,7 @@ input[type="tel"] {
 
 .btn-main {
   background: $primary-color;
-  color: $light;
+  color: $pink;
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -91,7 +91,7 @@ input[type="tel"] {
 .btn-solid-border {
   border: 1px solid $light;
   background: transparent;
-  color: $light;
+  color: $pink;
 
   &:hover {
     border: 1px solid $primary-color;
@@ -203,7 +203,7 @@ input[type="tel"] {
 }
 
 .bg-shadow {
-  background-color: $light;
+  background-color: $pink;
   box-shadow: 0 16px 24px rgba(0, 0, 0, .08);
   padding: 20px;
 }
@@ -282,7 +282,7 @@ input[type="tel"] {
     text-align: center;
 
     h1 {
-      color: $light;
+      color: $pink;
       font-weight: 200;
       letter-spacing: 6px;
       margin-top: 0;
@@ -290,7 +290,7 @@ input[type="tel"] {
     }
 
     p {
-      color: $light;
+      color: $pink;
     }
   }
 }
@@ -338,7 +338,7 @@ input[type="tel"] {
         color: #333;
         display: inline-block;
         padding: 7px 12px;
-        color: $light;
+        color: $pink;
 
       }
 
@@ -471,7 +471,7 @@ input[type="tel"] {
       &:hover {
         border: 1px solid transparent;
         background: $primary-color;
-        color: $light;
+        color: $pink;
       }
     }
   }
